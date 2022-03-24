@@ -1,8 +1,14 @@
 h3 {
+ color: #1000f0;
   font-family: 'Hurricane', cursive;
-  font-size: 30px;
-  font-color: #c2abf7;
+  font-size: 40px;
 }
 body {
-  background-color: #e7e0f5;
+  background-color:#efebff; 
+  }
+td {
+  font-size: 20px;
+}
+th {
+  font-size: 20px;
 }
