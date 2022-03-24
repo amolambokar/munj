@@ -1,7 +1,13 @@
 h3 {
  color: #1000f0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+h1 {
   font-family: 'Hurricane', cursive;
-  font-size: 40px;
+  font-size: 50px;
+  color: #f000dc;
+  
 }
 body {
   background-color:#efebff; 
