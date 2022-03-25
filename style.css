@@ -5,7 +5,7 @@ h3 {
 }
 h1 {
   font-family: 'Hurricane', cursive;
-  font-size: 70px;
+  font-size: 50px;
   color: #f000dc;
   
 }
@@ -17,4 +17,8 @@ td {
 }
 th {
   font-size: 20px;
+}
+.back {
+  position: absolute;
+  left: 700px;
 }
